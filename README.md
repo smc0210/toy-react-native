@@ -1,2 +1,7 @@
 # toyReactNative
-react native 
+
+## Requirement
+- nodeJS > 10
+- npm > 6
+- expo
+
